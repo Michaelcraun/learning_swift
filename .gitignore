@@ -1,0 +1,27 @@
+.DS_Store
+
+# Xcode user and build data
+DerivedData/
+build/
+.build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+.swiftpm/
+
+# CocoaPods and dependency artifacts generated locally
+Pods/
+
+# Local Codex scratch skills
+.codex-temp-skills/
